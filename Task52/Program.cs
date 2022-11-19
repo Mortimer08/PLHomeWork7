@@ -32,7 +32,6 @@ void PrintMatrix(int[,] matrix)
         }
         Console.WriteLine();
     }
-
 }
 
 void PrintArray(double[] array)
